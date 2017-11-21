@@ -1,0 +1,15 @@
+{
+  "name": "juejin-showdown",
+  "version": "1.8.2",
+  "description": "showdown without emoji",
+  "main": "dist/juejin-showdown.js",
+  "scripts": {
+    "test": "echo 42"
+  },
+  "author": "WEBuster <webuster@xitu.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WEBuster/juejin-showdown/issues"
+  },
+  "homepage": "https://github.com/WEBuster/juejin-showdown#readme"
+}
