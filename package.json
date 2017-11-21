@@ -1,8 +1,8 @@
 {
   "name": "juejin-showdown",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "description": "showdown without emoji",
-  "main": "dist/juejin-showdown.js",
+  "main": "dist/showdown.js",
   "scripts": {
     "test": "echo 42"
   },
